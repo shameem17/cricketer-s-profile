@@ -1,0 +1,24 @@
+Tamim_Iqbal
+Bangladesh
+
+
+Personal Information
+Birthday:20/03/1989
+From: Chittagong
+Role: Batsman
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	198	196	8	6805	8718	36.2	78.057	154	11	47
+TEST	58	112	1	4327	7648	38.98	56.577	206	9	27
+T20 	75	75	5	1613	1380	23.04	116.88	103	1	6
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	198	2	6	13	0	13	0	0
+TEST	58	5	30	20	0	4	0	0
+T20 	75	0	0	0	0	0	0	0

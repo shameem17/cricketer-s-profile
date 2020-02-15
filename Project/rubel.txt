@@ -1,0 +1,24 @@
+Rubel_Hossain
+Bangladesh
+
+
+Personal Information
+Birthday:01/01/1990
+From: Bagerhat,Khulna
+Role: Bowler
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	98	49	23	123	226	4.731	54.425	17	0	0
+TEST	26	45	19	259	568	9.962	45.599	45	0	0
+T20 	27	14	9	17	30	3.4	56.667	8	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	98	96	4384	4143	123	5.67	33.683	1
+TEST	26	43	4068	2651	33	3.91	80.333	1
+T20 	27	26	567	879	28	9.302	31.393	0

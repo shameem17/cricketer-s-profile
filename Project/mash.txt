@@ -1,0 +1,24 @@
+Mashrafe_Mortoja
+Bangladesh
+
+
+Personal Information
+Birthday:05/10/1983
+From: Norail,Jessore
+Role: Bowler
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	214	154	27	1763	2018	13.88	87.364	51	0	1
+TEST	36	67	5	797	1186	12.85	67.201	79	0	3
+T20 	54	39	11	377	278	13.46	135.61	36	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	214	214	10681	8644	266	4.856	32.496	1
+TEST	36	51	5990	3239	78	3.244	41.526	0
+T20 	54	53	1139	1528	42	8.049	36.381	0

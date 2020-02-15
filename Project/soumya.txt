@@ -1,0 +1,24 @@
+Soumya_Sarkar
+Bangladesh
+
+
+Personal Information
+Birthday:25/02/1993
+From: Satkhira
+Role: Batsman
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	49	48	3	1575	1562	35	100.83	127	2	10
+TEST	14	26	0	786	1279	30.23	61.454	149	1	4
+T20 	41	41	0	718	584	17.51	122.95	51	0	1
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	49	10	192	196	4	6.125	49	0
+TEST	14	10	418	262	3	3.761	87.333	0
+T20 	41	10	93	173	4	11.16	43.25	0

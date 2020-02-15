@@ -1,0 +1,24 @@
+Mehidy_Hasan
+Bangladesh
+
+
+Personal Information
+Birthday:10/25/1997
+From: Khulna
+Role: Alrounder
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	33	20	3	321	432	18.88	74.306	51	0	1
+TEST	19	36	6	554	1082	18.47	51.201	68	0	2
+T20 	13	11	2	94	80	10.44	117.5	19	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	33	32	1681	1284	34	4.583	37.765	0
+TEST	19	34	4903	2748	86	3.363	31.953	7
+T20 	13	13	216	330	4	9.167	82.5	0

@@ -1,0 +1,24 @@
+Abu_Jayed
+Bangladesh
+
+
+Personal Information
+Birthday:02/10/1993
+From: --
+Role: Bowler
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	2	0	0	0	0	0	0	0	0	0
+TEST	5	10	3	11	62	1.571	17.742	4	0	0
+T20 	3	2	0	3	7	1.5	42.857	2	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	2	2	108	114	5	6.333	22.8	1
+TEST	5	7	776	433	11	3.348	39.364	0
+T20 	3	3	66	108	4	9.818	27	0

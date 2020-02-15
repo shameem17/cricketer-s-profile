@@ -1,0 +1,24 @@
+Md_Mithun
+Bangladesh
+
+
+Personal Information
+Birthday:02/03/1991
+From: --
+Role: WK-Batsman
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	21	18	2	467	604	29.19	77.318	63	0	4
+TEST	5	9	0	191	403	21.22	47.395	67	0	1
+T20 	13	9	0	90	96	10	93.75	47	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	21	0	0	0	0	0	0	0
+TEST	5	0	0	0	0	0	0	0
+T20 	13	0	0	0	0	0	0	0

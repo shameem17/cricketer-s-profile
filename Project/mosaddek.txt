@@ -1,0 +1,24 @@
+Mosaddek_Hossain
+Bangladesh
+
+
+Personal Information
+Birthday:10/12/1995
+From: Mymenshing
+Role: Alrounder
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	30	25	10	470	534	31.33	88.015	52	0	1
+TEST	2	4	2	104	251	52	41.434	75	0	1
+T20 	8	8	1	113	115	16.14	98.261	34	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	30	28	734	625	13	5.109	48.077	0
+TEST	2	3	60	45	0	4.5	0	0
+T20 	8	7	88	99	4	6.75	24.75	0

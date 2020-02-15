@@ -1,0 +1,24 @@
+Mahmudullah
+Bangladesh
+
+
+Personal Information
+Birthday:04/02/1986
+From: Mymenshing
+Role: Alrounder
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	180	155	42	3920	5106	34.69	76.772	128	3	21
+TEST	44	85	5	2655	4968	33.19	53.442	146	4	16
+T20 	76	69	15	1250	1025	23.15	121.95	64	0	3
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	180	132	4066	3502	76	5.168	46.079	0
+TEST	44	62	3345	1910	42	3.426	45.476	1
+T20 	76	51	689	832	31	7.245	26.839	0

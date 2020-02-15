@@ -1,0 +1,24 @@
+Mustafizur_Rahman
+Bangladesh
+
+
+Personal Information
+Birthday:06/09/1995
+From: Satkhira
+Role: Bowler
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	51	26	19	57	116	8.143	49.138	18	0	0
+TEST	13	19	6	56	138	4.308	40.58	16	0	0
+T20 	30	13	5	27	45	3.375	60	8	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	51	50	2537	2164	91	5.118	23.78	3
+TEST	13	21	1845	985	28	3.203	35.179	0
+T20 	30	30	663	848	48	7.674	17.667	1

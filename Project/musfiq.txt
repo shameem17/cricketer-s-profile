@@ -1,0 +1,24 @@
+Musfiqur_Rahim
+Bangladesh
+
+
+Personal Information
+Birthday:06/09/1987
+From: Bogura
+Role: WK-Batsman
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	210	196	32	5802	7378	35.38	78.639	144	7	34
+TEST	66	123	8	4006	8540	34.83	46.909	219	6	19
+T20 	77	69	11	1138	956	19.62	119.04	72	0	4
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	210	0	0	0	0	0	0	0
+TEST	66	0	0	0	0	0	0	0
+T20 	77	0	0	0	0	0	0	0

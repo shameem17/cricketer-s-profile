@@ -1,0 +1,24 @@
+Saifuddin
+Bangladesh
+
+
+Personal Information
+Birthday:01/11/1996
+From: Feni,Chittagong
+Role: Alrounder
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	17	9	1	206	281	25.75	73.31	50	0	1
+TEST	0	0	0	0	0	0	0	0	0	0
+T20 	9	6	1	94	88	18.8	106.82	39	0	0
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	17	17	768	740	20	5.781	37	0
+TEST	0	0	0	0	0	0	0	0
+T20 	9	9	162	290	5	10.74	58	0

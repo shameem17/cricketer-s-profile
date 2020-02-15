@@ -1,0 +1,24 @@
+Shakib_Al_Hasan
+Bangladesh
+
+
+Personal Information
+Birthday:24/03/1987
+From: Magura,Jessore
+Role: Alrounder
+
+
+Batting Career Summary
+
+	Match	Innings	NO	Runs	BF	Avg.	SR.	HS	100s	50s
+ODI 	203	191	26	6142	7421	37.22	82.765	134	9	44
+TEST	55	103	7	3807	6150	39.66	61.902	217	5	24
+T20 	72	71	8	1471	1195	23.35	123.1	84	0	8
+
+
+
+Bowling Career Summary
+	Match	Innings	Ball	Runs	WI	Eco	Avg.	5W
+ODI 	203	203	10337	7730	254	4.487	30.433	1
+TEST	55	93	12774	6414	205	3.013	31.288	18
+T20 	72	71	1571	1774	88	6.775	20.159	1
